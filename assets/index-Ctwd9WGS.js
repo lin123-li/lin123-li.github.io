@@ -1,0 +1,1 @@
+import{ao as s}from"./app-8utA_4PA.js";import"./animation-AZ-73RI4.js";const a="/assets/none-DLM1AMsD.jpg";function m(t,o=a){const r=t.target;r.setAttribute("data-src",r.src),r.src=o}function c(t){return s(t,"yyyy-MM-dd HH:mm:ss")}export{c as f,m as o};
